@@ -1,5 +1,5 @@
 <a href="https://dot.net/architecture">
-   <img src="" alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
+   <img src="https://raw.githubusercontent.com/dotnet-architecture/eShopOnContainers/dev/img/eshop_logo.png"alt="eShop logo" title="eShopOnContainers" align="right" height="60" />
 </a>
 
 ## SPA Application (Angular)
