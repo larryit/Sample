@@ -83,8 +83,6 @@ eShopOnContainers is updated to .NET 6 "wave" of technologies. Not just compilat
 This   is cross-platform at the server and client-side, thanks to .NET 6 services capable of running on Linux or Windows containers depending on your Docker host, and to Xamarin for mobile apps running on Android, iOS, or Windows/UWP plus any browser for the client web apps.
 The architecture proposes a microservice oriented architecture implementation with multiple autonomous microservices (each one owning its own data/db) and implementing different approaches within each microservice (simple CRUD vs. DDD/CQRS patterns) using HTTP as the communication protocol between the client apps and the microservices and supports asynchronous communication for data updates propagation across multiple services based on Integration Events and an Event Bus (a light message broker, to choose between RabbitMQ or Azure Service Bus, underneath) plus other features defined at the [roadmap](  /wiki/Roadmap).
 
-![](img/eshop_logo.png)
-![](img/eShopOnContainers-architecture.png)
 
 ## Related documentation and guidance
 
