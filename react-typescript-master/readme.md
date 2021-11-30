@@ -1,4 +1,4 @@
-# React Typescript by  
+# React Typescript  
 
 [🇪🇸 Versión Español](./readme_es.md)
 
