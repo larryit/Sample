@@ -30,33 +30,6 @@ I'm glad to even the repo could be useful for your learning. 🤗
   
 [![Edit create-react-app-typescript-todo- -2021](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/quizzical-blackwell-bvfc5?fontsize=14&hidenavigation=1&theme=dark)
 
----------------
-
-## Getting Started
-
-- The app assumed installed `Node.js` newer than `10.16.3 LTS`(recommend newer than v14.8.0).
-  If you have not it yet, follow the official [Node.js Doc](https://nodejs.org/en/) to install it.
-  
-
-```bash
-npx degit laststance/create-react-app-typescript-todo- -2021 create-react-app-typescript-todo- -2021
-```
-
-```bash
-cd create-react-app-typescript-todo- -2021
-```
-
-```bash
-yarn install
-```
-
-```bash
-yarn start
-```
-
-after that auto launch todo app on your default browser and code edit ready.
-
-----------------------------------------------------------
 
 ## Stack
 
