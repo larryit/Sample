@@ -1,18 +1,5 @@
 # Create React App TypeScript Todo   2021
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/94ad28c3-2ccd-40b2-9b9f-35ab89148f43/deploy-status)](https://app.netlify.com/sites/create-react-app-typescript-todo- /deploys)
-![CI]( - -2021/workflows/CI/badge.svg)
-[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
-![check-code-coverage](https://img.shields.io/badge/code--coverage-92%25-brightgreen)
-[![tested with jest](https://img.shields.io/badge/tested_with-jest-99424f.svg)](https://github.com/facebook/jest)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
-[![Depfu](https://badges.depfu.com/badges/b291947c58892a6d78e4f3374c4a6d01/overview.svg)](https://depfu.com/github/laststance/create-react-app-typescript-todo- -2021?project_id=9618)
-[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io/laststance/create-react-app-typescript-todo- -2021)
-
-<a href="https://create-react-app-typescript-todo- .netlify.com/"><img src="https://raw.githubusercontent.com/laststance/create-react-app-typescript-todo- -2021/master/images/cypress_open.gif" alt="gif"></a>
- 
-
 ## A Modern Code Style Todo   📝
 
 This project was started with the goal of continuing to publish Todo   Apps in the latest [React](https://reactjs.org/) writing style.  
