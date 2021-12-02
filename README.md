@@ -33,7 +33,6 @@ I'm glad to even the repo could be useful for your learning. 🤗
   - [@typescript-eslint/eslint-plugin](https://github.com/typescript-eslint/typescript-eslint#readme)
 - [Netlify](https://www.netlify.com/): Deploy & Hosting
 - [Github Actions](https://github.com/features/actions): Automation run tests, lint, typecheck, build
-- [Depfu](https://depfu.com/github/ryota-murakami/create-react-app-typescript-todo- -2021?project_id=9618): Keep latest npm packages automaticaly
 
 ## 👩‍💻 Usage
 
